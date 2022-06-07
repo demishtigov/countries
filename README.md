@@ -5,13 +5,13 @@ A web application with brief descriptions of all the countries of the world. Inf
 This project was bootstrapped with Create React App.
 
 ## Built with
-"axios": "^0.27.2",
-"react": "^18.1.0",
-"react-dom": "^18.1.0",
-"react-icons": "^4.3.1",
-"react-router-dom": "^6.3.0",
-"react-select": "^5.3.2",
-"styled-components": "^5.3.5",
+- "axios": "^0.27.2",
+- "react": "^18.1.0",
+- "react-dom": "^18.1.0",
+- "react-icons": "^4.3.1",
+- "react-router-dom": "^6.3.0",
+- "react-select": "^5.3.2",
+- "styled-components": "^5.3.5",
 
 ## Getting Started
 To get started developing right away:
