@@ -1,5 +1,5 @@
 # Countries 
-A web application with brief descriptions of all the countries of the world. Information about countries is loaded from a third-party API. There are versions for phones, tablets, and computers. There is also a change of color background. 
+A web application with brief descriptions of all the countries of the world. Information about countries is loaded from a third-party API. There are versions for phones, tablets, and computers. There is also a theme change. 
 
 ## Create React App
 This project was bootstrapped with Create React App.
